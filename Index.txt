@@ -1,85 +1,73 @@
 ## Index of source code examples:
 
-\Actions - GoTo
-\Actions - JavaScript
-\Actions - Launch
-\Actions - Show-Hide Widget
-\Actions - Submit Form
-\Actions - URI (Link)
+\Add 3d Annotations to PDF
+\Add File Attachment to PDF
+\Add GoTo Action in PDF
 \Add Header And Footer
-\Add Page Numbers
-\Annotations - 3D
-\Annotations - File Attachment
-\Annotations - Markup
-\Annotations - Sound
-\Annotations - Text
-\Annotations - Video
-\Convert - DOCX to HTML
-\Convert - DOCX to PDF
-\Convert - HTML to DOCX
-\Convert - HTML to PDF
-\Convert - SVG to PDF
-\Convert - XML to PDF
-\Display Options
-\Document - Create New
-\Document - Information
-\Document - Load Existing
-\Document - Merge Two Documents
-\Drawing - Blend Mode
-\Drawing - Clipping
-\Drawing - Color Profiles
-\Drawing - Graphics State
-\Drawing - Lines and Curves
-\Drawing - Rectangles
-\Drawing - Template
-\Drawing - Tiling Patterns
-\Drawing - Transformations
-\Drawing - Transparency
-\Email to PDF (EmailWithAttachment)
-\Email to PDF (HTML Email With Attachments)
-\Email to PDF (HTML Email)
-\Email to PDF (RTF Email With Attachments)
-\Email to PDF (RTF Email)
-\Email to PDF (Text Email With Attachments)
-\Email to PDF (Text Email)
-\Forms - Button
-\Forms - CheckBox
-\Forms - ComboBox
-\Forms - Fill Form
-\Forms - Flatten Form
-\Forms - ListBox
-\Forms - RadioButton
-\Forms - Read Form Values
-\Forms - TextField
-\Invisible Text Over Image
-\Layers
-\Navigation - Bookmarks
-\Navigation - Link To Page
-\Navigation - Page Numbers
-\Reorder Pages
-\Security - Passwords and Permissions
-\Security - Remove Protection
-\Security - Signing
-\Text - Draw String
-\Text - Fonts
-\Text - Intercharacter Spacing
-\Text - Right To Left Text
-\Text - Rotation
-\Text - String Scaling
-\Text - Superscrip and Subscript
-\Text - Tables
-\Text - Watermarks
-\Text - Word Spacing
-\_Web API
-\_Web API\DOC To PDF
-\_Web API\HTML To PDF
-\_Web API\Image To PDF
-\_Web API\DOC To PDF\Convert DOC To PDF From Uploaded File
-\_Web API\DOC To PDF\Convert DOC To PDF From URL
-\_Web API\DOC To PDF\Convert DOC To PDF From URL Asynchronously
-\_Web API\HTML To PDF\Convert Web Page To PDF From URL
-\_Web API\HTML To PDF\Convert Web Page To PDF From URL Asynchronously
-\_Web API\HTML To PDF\Generate PDF Invoice From HTML Template
-\_Web API\Image To PDF\Convert Images To PDF From Uploaded Files
-\_Web API\Image To PDF\Convert Images To PDF From URLs
-\_Web API\Image To PDF\Convert Images To PDF From URLs Asynchronously
+\Add JavaScript action in PDF
+\Add Launch action in pdf
+\Add Link To Page in PDF
+\Add Page Numbers to PDF
+\Add Show-Hide Widget action in pdf
+\Add Sound annotation to pdf
+\Add text annotation in PDF
+\add text field to pdf form
+\Add video annotation in pdf
+\Add Watermarks to PDF
+\Convert DOCX to HTML
+\Convert DOCX to PDF
+\convert Email with attachemnts to PDF
+\convert Email with RTF and attachments to PDF
+\convert HTML Email to PDF
+\convert HTML Email with attachments to PDF
+\Convert HTML to DOCX
+\Convert HTML to PDF
+\convert RTF Email to PDF
+\Convert SVG to PDF
+\convert text Email to PDF
+\convert text Email with attachments to PDF
+\Convert XML to PDF
+\Create Bookmarks in pdf
+\create Button in pdf form
+\create CheckBox in pdf form
+\create ComboBox in pdf form
+\Create ListBox in pdf form
+\Create new pdf document
+\create Radio Button in pdf form
+\Create Submit Form action in pdf
+\Create Tables in PDF
+\Create URI Link action in PDF
+\Draw Lines and Curves in pdf
+\Draw Rectangles in pdf
+\Draw text String in pdf
+\Draw Tiling Patterns in pdf
+\Draw with Blend Mode in pdf
+\Draw with Clipping in pdf
+\Draw with Color Profiles in pdf
+\Draw with Graphics State in pdf
+\Draw with Transparency in pdf
+\Fill PDF Form
+\Flatten PDF Form
+\insert Images in pdf
+\Load existing pdf document
+\Merge 2 pdf Documents
+\Read Form Values from PDF form
+\Remove Protection from PDF
+\Reorder Pages in pdf
+\Rotate text in PDF
+\Set Fonts for text in pdf
+\Set Intercharacter Spacing for text in pdf
+\set Invisible Text Over Image in pdf
+\Set Page Numbers in PDF
+\Set Passwords and Permissions for PDF
+\Set pdf document display Options
+\Set pdf document information
+\Set Superscript and Subscript for text in PDF
+\Set Word Spacing for text in pdf
+\Signing for PDF
+\use Drawing Template for pdf
+\Use Drawing Transformations for PDF
+\Use Markup for annotations in PDF
+\use pdf Layers
+\Use Right To Left Text in PDF
+\Use String Scaling in PDF
