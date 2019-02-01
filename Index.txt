@@ -1,73 +1,73 @@
 ## Index of source code examples:
 
-\Add 3d Annotations to PDF
+\Add 3D Annotations to PDF
 \Add File Attachment to PDF
 \Add GoTo Action in PDF
 \Add Header And Footer
-\Add JavaScript action in PDF
-\Add Launch action in pdf
+\Add JavaScript Action in PDF
+\Add Launch Action in PDF
 \Add Link To Page in PDF
 \Add Page Numbers to PDF
-\Add Show-Hide Widget action in pdf
-\Add Sound annotation to pdf
-\Add text annotation in PDF
-\add text field to pdf form
-\Add video annotation in pdf
+\Add Show-Hide Widget Action in PDF
+\Add Sound Annotation to PDF
+\Add Text Annotation in PDF
+\Add Text Field to PDF Form
+\Add Video Annotation in PDF
 \Add Watermarks to PDF
 \Convert DOCX to HTML
 \Convert DOCX to PDF
-\convert Email with attachemnts to PDF
-\convert Email with RTF and attachments to PDF
-\convert HTML Email to PDF
-\convert HTML Email with attachments to PDF
+\Convert Email with Attachments to PDF
+\Convert Email with RTF and Attachments to PDF
+\Convert HTML Email to PDF
+\Convert HTML Email with Attachments to PDF
 \Convert HTML to DOCX
 \Convert HTML to PDF
-\convert RTF Email to PDF
+\Convert RTF Email to PDF
 \Convert SVG to PDF
-\convert text Email to PDF
-\convert text Email with attachments to PDF
+\Convert Text Email to PDF
+\Convert Text Email with Attachments to PDF
 \Convert XML to PDF
-\Create Bookmarks in pdf
-\create Button in pdf form
-\create CheckBox in pdf form
-\create ComboBox in pdf form
-\Create ListBox in pdf form
-\Create new pdf document
-\create Radio Button in pdf form
-\Create Submit Form action in pdf
+\Create And Use Template In PDF
+\Create Bookmarks in PDF
+\Create Button in PDF Form
+\Create CheckBox in PDF Form
+\Create ComboBox in PDF Form
+\Create ListBox in PDF Form
+\Create New PDF Document
+\Create Radio Button in PDF Form
+\Create Submit Form Action in PDF
 \Create Tables in PDF
-\Create URI Link action in PDF
-\Draw Lines and Curves in pdf
-\Draw Rectangles in pdf
-\Draw text String in pdf
-\Draw Tiling Patterns in pdf
-\Draw with Blend Mode in pdf
-\Draw with Clipping in pdf
-\Draw with Color Profiles in pdf
-\Draw with Graphics State in pdf
-\Draw with Transparency in pdf
+\Create URI Link Action in PDF
+\Draw Lines and Curves in PDF
+\Draw Rectangles in PDF
+\Draw Text String in PDF
+\Draw Tiling Patterns in PDF
+\Draw with Blend Mode in PDF
+\Draw with Clipping in PDF
+\Draw with Color Profiles in PDF
+\Draw with Graphics State in PDF
+\Draw with Transparency in PDF
 \Fill PDF Form
 \Flatten PDF Form
-\insert Images in pdf
-\Load existing pdf document
-\Merge 2 pdf Documents
-\Read Form Values from PDF form
+\Insert Images in PDF
+\Load Existing PDF Document
+\Merge Two PDF Documents
+\Read Form Values from PDF Form
 \Remove Protection from PDF
-\Reorder Pages in pdf
-\Rotate text in PDF
-\Set Fonts for text in pdf
-\Set Intercharacter Spacing for text in pdf
-\set Invisible Text Over Image in pdf
+\Reorder Pages in PDF
+\Rotate Text in PDF
+\Set Fonts for Text in PDF
+\Set Intercharacter Spacing for Text in PDF
+\Set Invisible Text Over Image in PDF
 \Set Page Numbers in PDF
 \Set Passwords and Permissions for PDF
-\Set pdf document display Options
-\Set pdf document information
-\Set Superscript and Subscript for text in PDF
-\Set Word Spacing for text in pdf
-\Signing for PDF
-\use Drawing Template for pdf
+\Set PDF Document Display Options
+\Set PDF Document Information
+\Set Superscript and Subscript for Text in PDF
+\Set Word Spacing for Text in PDF
+\Sign PDF
 \Use Drawing Transformations for PDF
-\Use Markup for annotations in PDF
-\use pdf Layers
+\Use Markup for Annotations in PDF
+\Use PDF Layers
 \Use Right To Left Text in PDF
 \Use String Scaling in PDF
