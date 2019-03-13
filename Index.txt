@@ -16,13 +16,13 @@
 \Add Watermarks to PDF
 \Convert DOCX to HTML
 \Convert DOCX to PDF
-\Convert Email with Attachments to PDF
-\Convert Email with RTF and Attachments to PDF
+\convert Email with attachemnts to PDF
 \Convert HTML Email to PDF
 \Convert HTML Email with Attachments to PDF
 \Convert HTML to DOCX
 \Convert HTML to PDF
 \Convert RTF Email to PDF
+\Convert RTF Email with attachments to PDF
 \Convert SVG to PDF
 \Convert Text Email to PDF
 \Convert Text Email with Attachments to PDF
