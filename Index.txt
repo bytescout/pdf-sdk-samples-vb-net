@@ -48,12 +48,18 @@
 \Draw with Color Profiles in PDF
 \Draw with Graphics State in PDF
 \Draw with Transparency in PDF
+\Fill Form 1099-INT
+\Fill Form W-4
+\Fill Form W-9
 \Fill PDF Form
 \Flatten PDF Form
 \Insert Images in PDF
 \Load Existing PDF Document
 \Merge Two PDF Documents
+\Read Form Values from 1099-INT form
 \Read Form Values from PDF Form
+\Read Form Values from W-4 form
+\Read Form Values from W-9 form
 \Remove Protection from PDF
 \Reorder Pages in PDF
 \Rotate Text in PDF
