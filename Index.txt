@@ -14,6 +14,7 @@
 \Add Text Field to PDF Form
 \Add Video Annotation in PDF
 \Add Watermarks to PDF
+\Convert Digital Photos to PDF
 \Convert DOCX to HTML
 \Convert DOCX to PDF
 \convert Email with attachemnts to PDF
@@ -34,11 +35,13 @@
 \Create CheckBox in PDF Form
 \Create ComboBox in PDF Form
 \Create ListBox in PDF Form
+\Create Multipage Tiff to PDF
 \Create New PDF Document
 \Create Radio Button in PDF Form
 \Create Submit Form Action in PDF
 \Create Tables in PDF
 \Create URI Link Action in PDF
+\Create ZUGFeRD Invoice
 \Draw Lines and Curves in PDF
 \Draw Rectangles in PDF
 \Draw Text String in PDF
