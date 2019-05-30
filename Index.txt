@@ -34,6 +34,7 @@
 \Create Button in PDF Form
 \Create CheckBox in PDF Form
 \Create ComboBox in PDF Form
+\Create Invoice PDF from HTML
 \Create Invoice Spanning Multiple Page
 \Create ListBox in PDF Form
 \Create Multipage Tiff to PDF
