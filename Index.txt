@@ -78,6 +78,7 @@
 \Set PDF Document Information
 \Set Superscript and Subscript for Text in PDF
 \Set Word Spacing for Text in PDF
+\Shift Page Content
 \Sign PDF
 \Use Drawing Transformations for PDF
 \Use Markup for Annotations in PDF
