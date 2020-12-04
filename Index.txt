@@ -62,6 +62,7 @@
 \Fill Form W-9
 \Fill PDF Form
 \Flatten PDF Form
+\Get All PDF Form Fields
 \Insert Images in PDF
 \Insert Pages to PDF
 \Load Existing PDF Document
