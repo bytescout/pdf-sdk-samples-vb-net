@@ -87,6 +87,7 @@
 \Sign PDF
 \Use Drawing Transformations for PDF
 \Use Markup for Annotations in PDF
+\Use PDF as Background to Other PDF
 \Use PDF Layers
 \Use Right To Left Text in PDF
 \Use String Scaling in PDF
