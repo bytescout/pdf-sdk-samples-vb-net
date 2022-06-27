@@ -50,6 +50,7 @@
 \Draw Text On Rotated Page
 \Draw Text String in PDF
 \Draw Tiling Patterns in PDF
+\Draw Trasparent Text
 \Draw with Blend Mode in PDF
 \Draw with Clipping in PDF
 \Draw with Color Profiles in PDF
